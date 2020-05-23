@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8652bac3-b191-4ab6-b6c6-e2ba6c1e0374" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZGNaxijb5IPkE7HxAh3sbzvtil" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Library">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookEntryBasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookEntryBasicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCmdBasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupCmdBasicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCmdBasicTest.testParseArgumentsIllegalArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupCmdBasicTest" />
+      <option name="METHOD_NAME" value="testParseArgumentsIllegalArgument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Library" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GroupCmdBasicTest.testParseArgumentsIllegalArgument" />
+        <item itemvalue="JUnit.BookEntryBasicTest" />
+        <item itemvalue="JUnit.GroupCmdBasicTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8652bac3-b191-4ab6-b6c6-e2ba6c1e0374" name="Default Changelist" comment="" />
+      <created>1584461537906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584461537906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586501430049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1586501430049" />
+    <state x="239" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586282601399">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="239" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1586282601399" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1585315875490">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585315875490" />
+    <state width="1237" height="277" key="GridCell.Tab.0.bottom" timestamp="1586791254274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="277" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586791254274" />
+    <state width="1237" height="277" key="GridCell.Tab.0.center" timestamp="1586791254274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="277" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586791254274" />
+    <state width="1237" height="277" key="GridCell.Tab.0.left" timestamp="1586791254273">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="277" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586791254273" />
+    <state width="1237" height="277" key="GridCell.Tab.0.right" timestamp="1586791254274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="277" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586791254274" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1586783229458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586783229458" />
+    <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584467812568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1584467812568" />
+    <state x="325" y="120" key="extract.method.dialog" timestamp="1586788013302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="120" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1586788013302" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584468275529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1584468275529" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1584983775451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584983775451" />
+  </component>
+</project>
